@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background: url(/images/banking-2.png);
+    background: url(/assets/banking-page.jpg);
     background-size: cover;
     height: auto;
     overflow: visible;
