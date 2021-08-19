@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image:url('https://www.freepik.com/photos/background');
+    background: url(/images/banking-2.png);
     background-size: cover;
     height: auto;
     overflow: visible;
