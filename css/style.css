@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(/images/banking-1.jpg);
+    background-size: cover;
+    height: auto;
+    overflow: visible;
+    opacity: 0.85;
+    background-repeat: no-repeat;
+}
